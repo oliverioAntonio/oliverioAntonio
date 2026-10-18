@@ -1,16 +1,15 @@
-## Hi there 👋
+## Antonio Oliverio
 
-<!--
-**oliverioAntonio/oliverioAntonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack .NET/C# developer**, based in Italy.
 
-Here are some ideas to get you started:
+I build web applications and business integrations with .NET: ASP.NET Core, Blazor, REST APIs and SQL Server / Azure SQL, plus RPA automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+C# · .NET · ASP.NET Core · Blazor · REST APIs · SQL Server / Azure SQL · RPA
+
+### Find me
+
+- Portfolio: https://oliverioantonio.github.io/portfolio/
+- Fiverr: https://it.fiverr.com/antoniodavideol
+- Upwork: https://www.upwork.com/freelancers/~01c6cc180121f56fc2
